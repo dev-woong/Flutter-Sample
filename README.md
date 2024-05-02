@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+# 진행 현황
+## 2024-05-02
+https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=ko#5
+- 6. 기능 추가 진행 예정
